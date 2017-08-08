@@ -1,0 +1,10 @@
+name: Flash7
+main: me.flash1213.Plugins.Main.ServerFunctions
+version: 0.1
+commands:
+   totalexp:
+      description: /help
+      usage: /<command>
+   exp:
+      description: /help
+      usage: /<command>
